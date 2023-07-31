@@ -8,9 +8,9 @@
 - 🌱 I’m currently learning Data Structures and Algorithms.
 
 <!-- - 👯 I’m looking to collaborate on ... -->
-- 💬 Ask me about Web Development.
+- 💬 Thoughts on Software Development.
 
-- 📫 How to reach me: <strong>virendernayal@protonmail.com</strong>
+- 📫 How to reach me: <strong>virendernayal3003@gmail.com</strong>
 
 - ⚡ Fun fact: I use Arch Linux
 
@@ -45,8 +45,6 @@
 ---
 
 ## 📊 My Github Stats
-
-[![VirenderNayal's GitHub stats](https://github-readme-stats.vercel.app/api?username=VirenderNayal&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VirenderNayal&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
